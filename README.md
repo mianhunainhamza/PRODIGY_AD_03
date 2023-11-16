@@ -1,5 +1,3 @@
-# stopwatch
-
 A Stopwatch application in which user can start,pause and reset the timer on the watch
 
 ## Getting Started
